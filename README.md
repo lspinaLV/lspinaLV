@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A passionate frontend developer based in Paris</h3>
+<h3 align="center">A creative frontend developer based in Paris</h3>
 
 - 🇫🇷 I’m based in Paris
 
