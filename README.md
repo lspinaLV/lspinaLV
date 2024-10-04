@@ -2,12 +2,14 @@
 <h3 align="center">A creative frontend developer based in Paris</h3>
 
 - 🇫🇷 I’m based in Paris
+  
+- 🇮🇹 I'm a Frontend developer from Italy
 
 - 👩🏼‍💻 Take a look at my [website](https://lauraspinadev.web.app/)
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 🇮🇹 Fun fact **I'm a very good cook**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
