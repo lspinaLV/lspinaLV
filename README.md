@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A creative frontend developer based in Paris</h3>
 
-- 🇫🇷 I’m based in Paris
   
 - 🇮🇹 I'm a Frontend developer from Italy
 
